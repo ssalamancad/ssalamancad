@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">I'm a passionate front-end developer from Colombia.</h3>
+<h3 align="center">I'm a front-end developer from Colombia.</h3>
 <br />
+
+- 💬 Ask me about **React, JavaScript, HTML & CSS**
 
 - 🌱 I’m currently learning **NodeJS / Express**
 
-- 💬 Ask me about **React, JavaScript, HTML5 & CSS3**
-
-- 📫 How to reach me **santiago765@gmail.com**
 <br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
